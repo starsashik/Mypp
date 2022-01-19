@@ -11,7 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String A = "";
+        String 1 = 123;
+        int sad = "";
 
     }
     class abss{}
+
 }
